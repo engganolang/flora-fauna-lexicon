@@ -1,0 +1,213 @@
+NO	ENGGANO	IN_FLEX	INCLUDE	POS	IPA	SENSE_ID	VARIANT	VARIANT_PHONEME	MAIN_ENTRY	MAIN_ENTRY_IDN	MAIN_ENTRY_EN	INDONESIAN	ENGLISH	NOTES_EN	NOTES_ID	CROSSREF	IMAGE	URL
+1	ayam	y	NA	n	/ajam/	NA	aiam	/aiam/	NA	NA	NA	ayam	chicken	NA	NA	kiadėb	TRUE	NA
+2	akoa	y	NA	n	/akoa/	NA	NA	NA	NA	NA	NA	merpati	wild pigeon	NA	NA	NA	NA	NA
+3	ame	y	NA	n	/ame/	NA	NA	NA	NA	NA	NA	kima (jenis kerang laut)	clams (a kind of sea mollusk)	NA	NA	NA	TRUE	NA
+4	ana'ao'	NA	NA	n	/anaʔaoʔ/	NA	ana'au'	/anaʔauʔ/	NA	NA	NA	jompol, ikan belanak dewasa	big mullet fish	NA	jenis ikan	NA	NA	NA
+5	anu'un	y	NA	n	/anuʔun/	NA	NA	NA	NA	NA	NA	kura-kura	turtoise; land turtle	NA	NA	NA	TRUE	NA
+6	ãpũ' ya'au	NA	FALSE	n	/ãpũʔ jaʔau/	NA	apũ' ha'au	/apũʔ haʔau/	ãpũ'	ular	snake	ular laut	sea snakes	NA	NA	mana'ai	TRUE	NA
+7	ki'yãp	NA	NA	n	/kiʔjãp/	NA	NA	NA	NA	NA	NA	belalang	grasshopper	NA	NA	NA	NA	NA
+8	are'iar	NA	NA	n	/areʔjar/	NA	NA	NA	NA	NA	NA	jangkrik	cricket	NA	NA	NA	NA	NA
+9	aro'or	NA	NA	n	/aroʔor/	NA	NA	NA	NA	NA	NA	lokan laut	sea ​​loch	NA	NA	NA	TRUE	NA
+10	ba'dit	NA	NA	n	/baʔdit/	NA	NA	NA	NA	NA	NA	punai	green pegeon (Treron)	NA	NA	NA	TRUE	NA
+11	be ha'au	NA	FALSE	n	/be haʔau/	NA	NA	NA	be	anjing	dog	anjing laut	seals	NA	NA	NA	TRUE	NA
+12	bih	y	NA	n	/bih/	NA	NA	NA	NA	NA	NA	lebah	bee	NA	NA	NA	TRUE	NA
+13	bih kahbik	NA	NA	n	/bih kahbik/	NA	NA	NA	bih	lebah	bee	penyengat	stinger	“kahbik” means ‘to sting’	“kahbik” artinya ‘menyengat’	NA	TRUE	NA
+14	bihdadė	NA	NA	n	/bihdadə/	NA	NA	NA	bih	lebah	bee	tawon cabe	chili wasp	NA	NA	NA	NA	NA
+15	bihmen	NA	NA	n	/bihmen/	NA	NA	NA	bih	lebah	bee	tawon tuak	palm wine wasp	based on the root “men”	berasal dari akar kata “men”	NA	TRUE	NA
+16	bintãng bė	NA	NA	n	/bintã bə/	NA	NA	NA	NA	NA	NA	bintang laut	starfish	literary means ‘star of the water’	secara harfiah berarti ‘bintang air’	ko'mim	NA	NA
+17	buėhė	NA	NA	n	/buəʔhə/	NA	NA	NA	NA	NA	NA	musang	ferret	“mutã” is also possible (a loanword from Malay/Indonesian)	mutã juga bisa digunakan sebagai pinjaman dari bahasa Melayu/Indonesia	NA	TRUE	NA
+18	burbur	NA	NA	n	/burbur/	NA	NA	NA	NA	NA	NA	bebek	duck	NA	NA	NA	TRUE	NA
+19	dahai	NA	NA	n	/dahaj/	NA	NA	NA	NA	NA	NA	biawak	monitor lizard	NA	NA	NA	TRUE	https://unsplash.com/photos/monarch-butterfly-on-green-leaf-macro-photography-sD5xXDlBY7Y?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash
+20	kih darpu	NA	NA	n	/kih darpu/	NA	NA	NA	NA	NA	NA	lepu	livid	NA	NA	NA	NA	NA
+21	de'	NA	NA	n	/deʔ/	NA	NA	NA	NA	NA	NA	kadal	lizard	NA	NA	NA	TRUE	NA
+22	dorpu	NA	NA	n	/dorpu/	NA	NA	NA	NA	NA	NA	laron	laron	NA	NA	NA	NA	NA
+23	e:b	NA	FALSE	n	/e:b/	NA	NA	NA	NA	NA	NA	kerang	shell	NA	NA	ame	TRUE	NA
+24	yen eyai	NA	NA	n	/ien eyai/	NA	NA	NA	NA	NA	NA	sisik ikan	scale	NA	NA	NA	NA	NA
+25	ea ku̇h	NA	NA	n	/ea kɨh/	NA	e'ea kuk kėh	/eʔea kuk kəh/	ea	tulang	bone	tempurung penyu	turtle shell	NA	NA	NA	TRUE	NA
+26	yeah	NA	NA	n	/yẽãh/	NA	NA	NA	NA	NA	NA	belut tubir	sea eel	it is edible	belut laut berwarna hitam	NA	TRUE	NA
+27	ea'ha	NA	NA	n	/ejaʔha/	NA	NA	NA	NA	NA	NA	burung betet	parrot	NA	NA	NA	TRUE	NA
+28	ẽãp	NA	NA	n	/ɛjãp/	NA	NA	NA	NA	NA	NA	belatung	maggots	NA	NA	NA	TRUE	NA
+29	be	y	NA	n	/be/	NA	ebe	/ebe/	NA	NA	NA	anjing	dog	NA	NA	NA	TRUE	NA
+30	e'ea kuk kėh	NA	FALSE	n	/eʔea kuk kəh/	NA	NA	NA	NA	NA	NA	tempurung penyu	turtle shell	DUPLICATE	NA	NA	NA	NA
+31	hẽ	NA	NA	n	/hẽ/	NA	NA	NA	NA	NA	NA	bajan	white-chinned moray	NA	belut putih berbintik	NA	TRUE	NA
+32	hĩõk	y	NA	n	NA	NA	hẽõk	/hẽõk/	NA	NA	NA	kecoa	cockroach	NA	NA	NA	TRUE	NA
+33	hia	y	NA	n	/hia/	NA	ehia	/ehia/	NA	NA	NA	beo	parrot	Hill Myna (Gracula religiosa)	NA	ia'ha	TRUE	NA
+34	e'yai	y	NA	n	/eʔjai/	NA	eiai	/ejai/	NA	NA	NA	ikan	fish	NA	NA	NA	NA	NA
+35	e'yai bub	NA	NA	n	/eʔjai bub/	NA	e'iai bub	/eʔiai bub/	e'yai	ikan	fish	ikan belanak berukuran kecil	small mullet fish	NA	NA	NA	NA	NA
+36	eai hẽõk	NA	NA	n	/eai hẽõk/	NA	eiai hẽõk	/eiai hẽõk/	e'yai	ikan	fish	sejenis ikan yang hidup di perairan enggano	a kind of fish	NA	NA	NA	NA	NA
+37	e'yai ka'o'	NA	FALSE	n	/eʔjai kaʔoʔ/	NA	e'iai ka'o'	/eʔiai kaʔoʔ/	e'yai	ikan	fish	ikan jabung	jabung fish	NA	NA	NA	NA	NA
+38	eai paya	NA	NA	n	/eai paja/	NA	eiai paia	/eiai paia/	e'yai	ikan	fish	ikan hias loreng	striped ornamental fish	NA	NA	NA	NA	NA
+39	eo	NA	NA	n	/eo/	NA	NA	NA	NA	NA	NA	kerang	shell	NA	NA	ame	NA	NA
+40	ẽõ	y	NA	n	/ʔẽõ/	NA	ẽõ	/ẽõ/	NA	NA	NA	keong	snail	watery on the eyes	berair mata	NA	NA	NA
+41	par	NA	NA	n	/par/	NA	epar	/epar/	NA	NA	NA	ubur-ubur	jellyfish	NA	NA	NA	TRUE	NA
+42	hama	y	NA	n	/hama/	NA	hãma	/hãma/	NA	NA	NA	hama	pest	NA	NA	NA	NA	NA
+43	he	NA	FALSE	n	/he/	NA	NA	NA	NA	NA	NA	belut bajan	Bajan eel	NA	NA	NA	NA	NA
+44	yãh ba'ar ke'ep	NA	NA	n	/hea baʔar keʔep/	NA	NA	NA	yah	tempat	place	sangkar burung; sarang burung	bird cage; bird nest	NA	NA	NA	NA	NA
+45	napi'yė	NA	NA	n	/napiʔyə/	NA	NA	NA	NA	NA	NA	ikan tembakul	mudskipper	NA	NA	NA	NA	NA
+46	hėkė'	NA	NA	n	/həkəʔ/	NA	NA	NA	NA	NA	NA	lokan	local	NA	NA	NA	NA	NA
+47	hiõp	NA	NA	n	/hiõp/	NA	NA	NA	NA	NA	NA	cakar	scratch	NA	NA	hion	NA	NA
+48	hĩũk	y	NA	n	/hĩũk/	NA	hiũk	/hiũk/	NA	NA	NA	kutu	louse	NA	NA	NA	NA	NA
+49	hoa'	NA	FALSE	n	/hoaʔ/	NA	NA	NA	NA	NA	NA	gurita	octopus	NA	NA	NA	NA	NA
+50	hõan	NA	NA	n	/hũan/	NA	NA	NA	NA	NA	NA	kalong; kelelawar	bat	NA	NA	NA	TRUE	NA
+51	ia'ha	NA	NA	n	/iaʔha/	NA	NA	NA	NA	NA	NA	burung betet	parrot	NA	NA	NA	NA	NA
+52	iaher	NA	NA	n	/jaher/	NA	NA	NA	NA	NA	NA	karang (yang disusun)	(arranged) coral	NA	NA	NA	NA	NA
+53	eai kana'ue'	NA	NA	n	/eai kanaʔueʔ/	NA	iai kana'ue'	/jaj kanaʔueʔ/	e'yai	ikan	fish	ikan pantai berukuran kecil	small beach fish	NA	NA	NA	NA	NA
+54	yakomã'	NA	NA	n	/jakomãʔ/	NA	iakomã'	/iakomãʔ/	NA	NA	NA	bangau	stork	NA	NA	NA	TRUE	NA
+55	ia'rah ke'ep	NA	NA	n	/iaʔrah keʔep/	NA	NA	NA	NA	NA	NA	sarang burung	bird nest	NA	NA	yãh ba'ar ke'ep	TRUE	NA
+56	iėdė'	NA	NA	n	/iədə/	NA	NA	NA	NA	NA	NA	sirip ikan	fish fins	NA	NA	NA	NA	NA
+57	iuk	y	NA	n	/iuk/	NA	iũk	/iũk/	NA	NA	NA	kulit	skin	NA	NA	NA	NA	NA
+58	iuk kane	NA	NA	n	/iuk kane/	NA	NA	NA	NA	NA	NA	cangkang kelomang	hermit crab shell	NA	NA	NA	TRUE	NA
+59	ẽũk kiėhėr	NA	FALSE	n	/ẽũk kiəhər/	NA	iũk kiėhėr	/iũk kiəhər/	ẽũk	kepiting	crab	kepiting kecil lari-lari	little crabs running around	NA	NA	kapiti	TRUE	NA
+60	yum	y	NA	n	/jum/	NA	NA	NA	NA	NA	NA	lalat	fly	NA	NA	NA	TRUE	NA
+61	kaah	NA	NA	n	/ka:h/	NA	NA	NA	NA	NA	NA	kalajengking	scorpion	NA	NA	NA	TRUE	NA
+62	kabaruk	NA	NA	n	/kabaruk/	NA	NA	NA	NA	NA	NA	ikan hitam yang bau	smelly black fish	“iėhė” wood, when the fruit falls, it is called the “kabaruk” fruit and is eaten by pig	kayu “iėhė”, ketika buahnya jatuh, dinamakan buah “kabaruk” dan dimakan oleh babi	NA	NA	NA
+63	ka'be bak	NA	NA	n	/kaʔbe bak/	NA	NA	NA	NA	NA	NA	katung/penyu	catfish/turtle	NA	NA	NA	NA	NA
+64	kab-kab	NA	NA	n	/kab-kab/	NA	NA	NA	kab	jaring	net	jaring laba-laba	spider webs	NA	NA	NA	TRUE	NA
+65	kaė'iur	NA	NA	n	/kaəʔjur/	NA	NA	NA	NA	NA	NA	semut api	fire ants	NA	NA	kih	TRUE	NA
+66	ka'ėuic	NA	FALSE	n	/kaʔəuic/	NA	NA	NA	NA	NA	NA	kepiting bakau	manrove crab	NA	NA	kahic	NA	NA
+67	kahẽ	NA	FALSE	n	/kahɛ̃/	NA	NA	NA	NA	NA	NA	jelatang laut	sea nettle	NA	NA	NA	NA	NA
+68	kahẽp	NA	FALSE	n	/kahẽp/	NA	NA	NA	NA	NA	NA	cabe-cabe	chili peppers	NA	NA	NA	NA	NA
+69	kãhpã	NA	NA	n	/kãhpã/	NA	NA	NA	NA	NA	NA	ikan sebelah	half split-open fish	NA	NA	NA	NA	NA
+70	kahdėa'	NA	NA	n	/kahdəaʔ/	NA	NA	NA	NA	NA	NA	ikan taji-taji putih	whitespine unicorn fish	NA	NA	NA	NA	NA
+71	kak ha'ku	NA	NA	n	/kak haʔku/	NA	NA	NA	kak	orang	person	orangutan	orangutan	NA	NA	NA	NA	NA
+72	kama	NA	NA	n	/kama/	NA	armang	NA	NA	NA	NA	belut sungai/moa	river eel	NA	NA	NA	NA	NA
+73	kami	NA	NA	n	/kami/	NA	NA	NA	NA	NA	NA	kambing	goat	NA	NA	NA	TRUE	NA
+74	kamiu	y	NA	n	/kami/	NA	kemiu	/kemiu/	NA	NA	NA	cangkang keong yang dijadikan alat tiup untuk memanggil masyarakat	snail shell horn for calling a traditional assembly	NA	NA	NA	NA	NA
+75	kana' ia'iėb	NA	NA	n	/kanaʔ iaʔiəm/	NA	NA	NA	NA	NA	NA	ulat keket	keket caterpillar	funnily-walking caterpillar	ulat jalan lucu	kopen	NA	NA
+76	kane bero	NA	NA	n	/kane bero/	NA	NA	NA	NA	NA	NA	tutut atau liling, sejenis keong yang hidup di air tawar	tutut or liling, a type of snail that lives in freshwater	NA	NA	NA	NA	NA
+77	kãnoã	NA	NA	n	/kãnoã/	NA	NA	NA	NA	NA	NA	lintah	leech	NA	NA	NA	TRUE	NA
+78	kapi	y	NA	n	/kapi/	NA	NA	NA	NA	NA	NA	sapi	cow	NA	NA	NA	TRUE	NA
+79	kapiti	NA	NA	n	/kapiti/	NA	NA	NA	NA	NA	NA	kepiting	crab	NA	NA	NA	NA	NA
+80	ka'por iapara	NA	NA	n	/kaʔpor apara/	NA	NA	NA	NA	NA	NA	laba-laba	Spider	NA	NA	NA	NA	NA
+81	karaha' anoa	NA	NA	n	/karahaʔ anoa/	NA	NA	NA	NA	NA	NA	cencorang	geek	NA	NA	NA	NA	NA
+82	karbė'	NA	NA	n	/karbəʔ/	NA	NA	NA	NA	NA	NA	codot, jenis kelelawar pemakan buah	codot, types of fruit-eating bats	NA	NA	NA	NA	NA
+83	karbo	y	NA	n	/karbo/	NA	NA	NA	NA	NA	NA	kerbau	water buffalo	NA	NA	NA	NA	NA
+84	karnadito	NA	NA	n	/karnadito/	NA	NA	NA	NA	NA	NA	teripang ular	snake sea cucumber	NA	NA	NA	NA	NA
+85	kiã'man	NA	NA	n	/kiaʔman/	NA	NA	NA	NA	NA	NA	sejenis serangga kecil yang hidup di hutan, memiliki aroma busuk, dan dapat menyebabkan rasa terbakar jika digigitnya	a type of small insect that lives in forests, has a foul odor, and can cause a burning sensation if it bites	NA	NA	NA	NA	NA
+86	ke'ep iu'	NA	NA	n	/keʔep juʔ/	NA	NA	NA	ke'ep	burung	bird	burung hantu	owl	NA	NA	iu'	TRUE	NA
+87	ku̇h	y	NA	n	/kɨh/	NA	kėh	/kəh/	NA	NA	NA	penyu	sea turtle	NA	NA	ka'be bak	TRUE	NA
+88	kẽkã	NA	NA	n	/kẽkã/	NA	NA	NA	NA	NA	NA	ikan loreng	striped fish	NA	NA	NA	NA	NA
+89	kėn	NA	NA	n	/kən/	NA	NA	NA	NA	NA	NA	tungau	mite	NA	NA	NA	TRUE	NA
+90	kiadėb	y	NA	n	/kiadəb/	NA	kiadėp	/kiadəp/	NA	NA	NA	ayam	chicken	The variant is overheard when Pak Milson responded to it in ""eno_20231013_elicitation.wav"".	NA	NA	TRUE	NA
+91	kiaham	NA	NA	n	/kiaham/	NA	NA	NA	aham	terbang	fly	ikan terbang	flying fish	NA	NA	NA	NA	NA
+92	kiã'pan	NA	NA	n	/kiãʔpan/	NA	NA	NA	NA	NA	NA	ikan taji-taji kuning	yellowspine unicorn fish	NA	NA	NA	NA	NA
+93	kiėhėr	y	NA	n	/kiəhər/	NA	NA	NA	NA	NA	NA	kepiting pantai (kepiting putih)	shore crab (white crab)	NA	NA	kapiti	NA	NA
+94	kih	y	NA	n	/kih/	NA	NA	NA	NA	NA	NA	semut	ant	NA	NA	NA	TRUE	NA
+95	kih dorpu	NA	NA	n	/kih dorpu/	NA	NA	NA	kih	semut	ant	semut rangrang	weaver ants	NA	NA	kih	TRUE	NA
+96	kih ka:h	NA	NA	n	/kih ka:h/	NA	NA	NA	kih	semut	ant	semut hitam besar	big black ant	NA	NA	kih	TRUE	NA
+97	kih kahė'iur	NA	NA	n	/kih kahəʔiur/	NA	NA	NA	kih	semut	ant	semut pedis	pedis ants	Monomorium pharaonis or pharaoh ants	Monomorium pharaonis atau semut firaun	kih	TRUE	NA
+98	kih pap	NA	NA	n	/kih pap/	NA	NA	NA	kih	semut	ant	semut kuning lambat	slow yellow ants	NA	NA	kih	NA	https://unsplash.com/photos/selective-focus-photography-of-eurasian-eagle-owl-during-daytime-tpxnuebsy28?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash
+99	ki'ia	y	NA	n	/kiʔia/	NA	NA	NA	NA	NA	NA	nyamuk	mosquito	NA	NA	NA	TRUE	NA
+100	kĩ'ĩãp	y	NA	n	/kĩʔĩãp/	NA	ki'iap	/kiʔiap/	NA	NA	NA	belalang	grasshopper	NA	NA	NA	TRUE	NA
+101	kinu	NA	NA	n	/kinu/	NA	NA	NA	NA	NA	NA	jenis ikan loreng	a type of striped fish	NA	NA	NA	NA	NA
+102	kipãm bak'u	NA	NA	n	/kipãm bakʔu/	NA	NA	NA	NA	NA	NA	ikan tunggu sawah	a kind of fish in ricefield	NA	NA	NA	NA	NA
+103	kitaha	y	NA	n	/kitaha/	NA	NA	NA	NA	NA	NA	lipan	centipede	NA	NA	NA	TRUE	NA
+104	kit	y	NA	n	/kit/	NA	kito'	/kitoʔ/	NA	NA	NA	ikan hiu	shark	NA	NA	NA	TRUE	NA
+105	kiu'	NA	NA	n	/kijuʔ/	NA	NA	NA	NA	NA	NA	serindit	hanging parrot	NA	NA	hia	NA	NA
+106	ko'kẽr	NA	FALSE	n	/koʔkẽr/	NA	NA	NA	NA	NA	NA	keong jeramun	jeramun snail	NA	NA	NA	NA	NA
+107	kopen	y	NA	n	/kopen/	NA	kõpen	/kõpen/	NA	NA	NA	ulat (gatal di daun)	caterpillar	It can cause itchiness	Dapat menyebabkan gatal	ẽãp	NA	NA
+108	kopen hia'au	NA	NA	n	/kopen hiaʔaw/	NA	NA	NA	kopen	ulat (gatal di daun)	caterpillar	cacing laut	sea worms	NA	NA	NA	NA	NA
+109	kõpen nipon	NA	NA	n	/kõpen nipon/	NA	NA	NA	kopen	ulat (gatal di daun)	caterpillar	kaki seribu	centipede	NA	NA	NA	TRUE	NA
+110	ku' pan	NA	NA	n	/kuʔ pan/	NA	NA	NA	NA	NA	NA	sejenis burung pergam	kind of pegeons	NA	NA	NA	NA	NA
+111	korea	y	NA	n	/korɛa/	NA	NA	NA	NA	NA	NA	burung cekakak; burung camar	kingfisher; seagull	NA	NA	NA	TRUE	NA
+112	kuahai	NA	NA	n	kuahai	NA	NA	NA	NA	NA	NA	karang ka'duri	Ka'duri coral	NA	NA	NA	NA	NA
+113	kuanu	NA	NA	n	/kuanu/	NA	NA	NA	NA	NA	NA	keong	snail	NA	NA	NA	NA	NA
+114	kua'nu	NA	NA	n	/kuaʔnu/	NA	NA	NA	NA	NA	NA	umang-umang	hermit crab	NA	NA	kuanu	TRUE	NA
+115	kud	y	NA	n	/kud/	NA	NA	NA	NA	NA	NA	kuda	horse	NA	NA	NA	TRUE	NA
+116	kũk kã:	NA	NA	n	/kũkã:/	NA	NA	NA	NA	NA	NA	serangga	insect	NA	NA	NA	NA	NA
+117	kũ'kãh	NA	NA	n	/kũʔkãh/	NA	NA	NA	NA	NA	NA	walang sangit	rice ear bug	NA	NA	NA	NA	NA
+118	kuti'	NA	NA	n	/kutiʔ/	NA	NA	NA	NA	NA	NA	taring	fangs	NA	NA	NA	NA	NA
+119	lumbo-lumbo	NA	NA	n	/lumbo-lumbo/	NA	NA	NA	NA	NA	NA	lumba-lumba	dolphins	NA	NA	NA	TRUE	NA
+120	ma'ė	NA	NA	n	/ma'ə̃/	NA	NA	NA	NA	NA	NA	ikan ampibi	mudskipper	NA	NA	NA	TRUE	NA
+121	mahkõãk	NA	NA	n	/mahkõãk/	NA	NA	NA	NA	NA	NA	burung keling	rivet bird	NA	NA	NA	NA	NA
+122	mana'ai	NA	FALSE	n	/manaʔai/	NA	NA	NA	NA	NA	NA	ular belang putih	white striped snake	NA	NA	NA	NA	NA
+123	mea	y	NA	n	/mea/	NA	meã	/meã/	NA	NA	NA	kucing	cat	NA	NA	NA	TRUE	NA
+124	mikmik	y	NA	n	/mikmik/	NA	mik	/mik/	NA	NA	NA	burung kacamata	humming-bird	NA	NA	NA	NA	NA
+125	minãtã yi:b	NA	NA	n	/minãtã ji:b/	NA	NA	NA	minata	binatang	animal	binatang buas	wild animals	NA	NA	NA	NA	NA
+126	minãtã kipahkok	NA	NA	n	/minãtã pahkok/	NA	NA	NA	minata	binatang	animal	binatang menyusui	mammals	NA	NA	NA	NA	NA
+127	minãtã kipė'ak	NA	NA	n	/minãtã kipəʔak/	NA	NA	NA	minata	binatang	animal	binatang jinak	tame animal	NA	NA	NA	NA	NA
+128	moie'	NA	NA	n	/moieʔ/	NA	NA	NA	NA	NA	NA	monyet	monkey	NA	NA	NA	TRUE	NA
+129	mum	NA	NA	n	/mum/	NA	mom	/mom/	NA	NA	NA	capung	dragonfly	NA	NA	NA	NA	NA
+130	muni'	NA	FALSE	n	/muniʔ/	NA	NA	NA	NA	NA	NA	kerapu	groupers	NA	NA	NA	NA	NA
+131	muni' kakuni'	NA	NA	n	/muniʔ kakuniʔ/	NA	NA	NA	muni'	kerapu	groupers	jenis ikan	a kind of fish	NA	NA	NA	NA	NA
+132	muni' karatang	NA	NA	n	/muniʔ karataŋ/	NA	NA	NA	muni'	kerapu	groupers	jenis ikan	a kind of fish	NA	NA	NA	NA	NA
+133	muni' tubir	NA	NA	n	/muniʔ tubir/	NA	NA	NA	muni'	kerapu	groupers	jenis ikan	a kind of fish	NA	NA	NA	NA	NA
+134	na'pũ	NA	NA	n	/naʔpũ/	NA	buai	NA	NA	NA	NA	buaya	crocodile	NA	NA	NA	NA	NA
+135	nimau	NA	NA	n	/nimaw/	NA	NA	NA	NA	NA	NA	harimau	tiger	NA	NA	NA	NA	NA
+136	nin	NA	NA	n	/nin/	NA	NA	NA	NA	NA	NA	tonggeret	katydid	a kind of insect	sejenis serangga	kũk kã:	NA	NA
+137	nokãi	NA	FALSE	n	/nokãi/	NA	NA	NA	NA	NA	NA	ikan kerong-kerong	scallop fish	NA	NA	NA	NA	NA
+138	pãĩk	y	FALSE	n	/pãĩk/	NA	pãẽk	/pãẽk/	NA	NA	NA	udang sungai	shrimp	NA	NA	NA	NA	NA
+139	par	NA	NA	n	/par/	NA	NA	NA	NA	NA	NA	anemon laut	sea anemone	NA	NA	NA	NA	NA
+140	paui'	NA	NA	n	/pawi'/	NA	NA	NA	NA	NA	NA	ikan berjanggut	bearded fish	NA	NA	NA	NA	NA
+141	pẽ'	y	NA	n	/pẽʔ/	NA	NA	NA	NA	NA	NA	kodok/katak	frog	NA	NA	NA	TRUE	NA
+142	pẽ'ẽ	y	NA	n	/pẽʔẽ/	NA	NA	NA	NA	NA	NA	kepiting jalan/darat	street/land crab	Land crabs that live in coastal areas. This type of crab is nocturnal and nests by digging into the ground	kepiting tanah yang hidup di wilayah pesisir. Jenis kepiting ini bersifat nocturnal dan bersarang dengan cara menggali tanah.	kah'u̇iç	NA	NA
+143	pĩ'ĩ	y	NA	n	/pĩ'ĩ/	NA	pĩ	/pĩ/	NA	NA	NA	sejenis keong hutan; bekicot	jungle snail	NA	NA	kuanu	NA	NA
+144	po'oi	NA	NA	n	/poʔoi/	NA	eai porek	/eai porek/	NA	NA	NA	ikan bayam	parrot fish	NA	NA	NA	TRUE	NA
+145	põ'pã	NA	NA	n	/põʔpã/	NA	NA	NA	NA	NA	NA	kupu-kupu	butterfly	NA	NA	NA	TRUE	NA
+146	puru koi	NA	NA	n	/puru koj/	NA	NA	NA	puru	bulu	feather	bulu babi	sea urchins	NA	NA	NA	TRUE	NA
+147	puruh	NA	NA	n	/puruh/	NA	NA	NA	NA	NA	NA	elang	hawk	NA	NA	NA	NA	NA
+148	pururu	NA	NA	n	/pururu/	NA	NA	NA	puru	bulu	feather	bulu	fur; feather	NA	NA	NA	NA	NA
+149	pu'ur	NA	NA	n	/puʔur/	NA	NA	NA	NA	NA	NA	Napoleon (sejenis ikan)	Napoleon (a kind of fish)	NA	NA	NA	NA	NA
+150	pu'wẽ	NA	NA	n	/puʔwẽ/	NA	NA	NA	NA	NA	NA	karang bulat	round coral	NA	NA	yahaid	NA	NA
+151	tamba' kuni'-kuni'	NA	NA	n	/taambaʔ kuniʔkuniʔ/	NA	NA	NA	NA	NA	NA	tambak kuning-kuning	lane snapper	NA	NA	NA	NA	NA
+152	taripa	y	NA	n	/taripa/	NA	tanipã	/tanipã/	NA	NA	NA	teripang	sea cucumber	NA	NA	NA	NA	NA
+153	cumi-cumi	NA	NA	n	/tumi-tumi/	NA	NA	NA	NA	NA	NA	cumi-cumi	squid	NA	NA	NA	TRUE	NA
+154	ubiubi	NA	NA	n	/ubiubi/	NA	NA	NA	NA	NA	NA	burung pemakan ikan	fish-eating bird	NA	NA	NA	NA	NA
+155	uma	NA	NA	n	/uma/	NA	NA	NA	NA	NA	NA	pergam (sejenis burung)	pergam (a kind of bird)	Sea Pergam or in its scientific name Ducula bicolor is a type of bird found in the Columbidae bird tribe. The Sea Pergam bird is medium sized, reaching a length of 38 cm. This species has white feathers with flight feathers and a mostly black tail.	Pergam Laut atau yang memiliki nama ilmiah Ducula bicolor merupakan jenis burung yang termasuk dalam suku burung Columbidae. Burung Pergam Laut berukuran sedang, dengan panjang mencapai 38 cm. Spesies ini memiliki bulu berwarna putih dengan bulu terbang dan ekor yang sebagian besar berwarna hitam.	NA	NA	NA
+156	kahẽ	y	NA	n	/kahẽ/	NA	NA	NA	NA	NA	NA	cacing berbulu (Polychaeta) atau masyarakat Enggano menyebutnya 'jelatang laut'	bristle worm	NA	NA	NA	TRUE	NA
+157	purar	NA	NA	n	/purar/	NA	NA	NA	NA	NA	NA	duri ikan	fish bone	NA	NA	duri'	NA	NA
+158	ãpũ'	y	NA	n	/ãpũʔ/	NA	NA	NA	NA	NA	NA	ular	snake	NA	NA	NA	NA	NA
+159	ea	y	NA	n	/ea/	NA	NA	NA	NA	NA	NA	tulang	bone	NA	NA	NA	NA	NA
+160	ke'ep	y	NA	n	/keʔep/	NA	NA	NA	NA	NA	NA	burung	bird	NA	NA	NA	NA	NA
+161	iu'	y	NA	n	/juʔ/	NA	NA	NA	NA	NA	NA	burung hantu	owl	NA	NA	NA	NA	NA
+162	ẽũk	y	NA	n	/ẽũk/	NA	NA	NA	NA	NA	NA	kepiting	crab	NA	NA	kiėhėr	NA	NA
+163	kab	y	NA	n	/kab/	NA	NA	NA	NA	NA	NA	jaring	net	NA	NA	NA	NA	NA
+164	kak	y	NA	n	/kak/	NA	NA	NA	NA	NA	NA	orang	person	NA	NA	NA	NA	NA
+165	aham	y	NA	v	/aham/	NA	NA	NA	NA	NA	NA	terbang	fly	NA	NA	NA	NA	NA
+166	minata	y	NA	n	/minata/	NA	NA	NA	NA	NA	NA	binatang	animal	NA	NA	NA	NA	NA
+167	puru	y	NA	n	/puru/	NA	NA	NA	NA	NA	NA	bulu	feather	NA	NA	NA	NA	NA
+168	ako'ok	NA	NA	n	/akoʔk/	NA	NA	NA	NA	NA	NA	lola	lola clams	lola refers to a type of bivalve mollusk commonly found in coastal waters in Southeast Asia	NA	NA	NA	NA
+169	arau	y	NA	n	/araw/	NA	NA	NA	NA	NA	NA	gebur; jenis ikan Kuwe Goreng (Jiti)	a kind of fish (the giant tervally [GT])	NA	NA	ka'wa	NA	NA
+170	bub	NA	NA	n	/bub/	NA	NA	NA	NA	NA	NA	belanak	mullet fish	NA	NA	NA	NA	NA
+171	kanãp	NA	NA	n	/kanãp/	NA	NA	NA	NA	NA	NA	cabe-cabe	wrasse fish	NA	NA	NA	NA	NA
+172	kahep	NA	NA	n	/kahɛp/	NA	NA	NA	NA	NA	NA	cabe-cabe	wrasse fish	NA	NA	NA	NA	NA
+173	pauwi'	NA	NA	n	/pauwiʔ/	NA	NA	NA	NA	NA	NA	kuniran	threadfin bream fish	NA	NA	NA	NA	NA
+174	nokai	NA	FALSE	n	/nokaj/	NA	NA	NA	NA	NA	NA	biji nanɡka	NA	NA	NA	NA	NA	NA
+175	cumi-cumi	NA	FALSE	n	/cumi-cumi/	NA	NA	NA	NA	NA	NA	cumi-cumi	squid	NA	NA	NA	NA	NA
+176	merang ka'kuni'	NA	NA	n	/meraŋ kaʔkuniʔ/	NA	NA	NA	NA	NA	NA	meranɡ kuninɡ	yellow stripe fish	NA	NA	NA	NA	NA
+177	muni'	y	NA	n	/muniʔ/	NA	NA	NA	NA	NA	NA	kerapu	groupers	NA	NA	NA	NA	NA
+178	hoa'	NA	NA	n	/hoaʔ/	NA	NA	NA	NA	NA	NA	ɡurita	octopus	NA	NA	NA	TRUE	NA
+179	iyur it	NA	NA	n	/ijur it/	NA	NA	NA	NA	NA	NA	ikan ɡaji	filefish	NA	NA	NA	NA	NA
+180	dė'	NA	NA	n	/dəʔ/	NA	NA	NA	NA	NA	NA	napoleon	napoleon wrasse	NA	NA	NA	NA	NA
+181	yor	NA	NA	n	/jor/	NA	NA	NA	NA	NA	NA	todak	swordfish	NA	NA	NA	NA	NA
+182	po'oi	NA	FALSE	n	/põʔõj/	NA	NA	NA	NA	NA	NA	mirip ikan sebelah	flatfish	NA	NA	NA	NA	NA
+183	kahpã	NA	NA	n	/kahpã/	NA	NA	NA	NA	NA	NA	ikan sebelah	flatfish	NA	NA	NA	NA	NA
+184	kiyãham	NA	NA	n	/kiyãham/	NA	NA	NA	NA	NA	NA	ikan terbanɡ	Flying fish	NA	NA	NA	NA	NA
+185	heap	NA	NA	n	/hɛap/	NA	NA	NA	NA	NA	NA	japuh	Dussumieria acuta	NA	NA	NA	NA	NA
+186	iyuk kah'u̇iç	NA	NA	n	/iyuk kahʔuiç/	NA	NA	NA	ẽũk	kepiting	crab	kepiting	crab	NA	NA	kiėhėr	NA	NA
+187	iyuk	NA	NA	n	/ijuk/	NA	NA	NA	NA	NA	NA	kepitinɡ kecil	small crab	NA	NA	NA	NA	NA
+188	ko'ker	NA	NA	n	/koʔkɛr/	NA	NA	NA	NA	NA	NA	keranɡ hijau	green mussel	NA	NA	NA	NA	NA
+189	kekeb	NA	NA	n	/kekeb/	NA	NA	NA	NA	NA	NA	jeramun	(Unclear translation, possibly a local term)	NA	NA	NA	NA	NA
+190	nokãi	NA	NA	n	/nokãj/	NA	NA	NA	NA	NA	NA	keronɡ-keronɡ	terapon fish	NA	NA	NA	NA	NA
+191	ka'wa	NA	NA	n	/kaʔwa/	NA	NA	NA	NA	NA	NA	gebur	(Unclear translation, possibly a local term)	NA	NA	NA	NA	NA
+192	do'oit	NA	NA	n	/doʔoit/	NA	NA	NA	NA	NA	NA	ikan ketamba atau lencam (Lethrinidae)	emperor fish (Lethrinidae)	NA	NA	NA	NA	NA
+193	ako'ok	NA	FALSE	n	/akoʔok/	NA	NA	NA	NA	NA	NA	lola	Top shell snail	NA	NA	NA	NA	NA
+194	kit	NA	FALSE	n	/kit/	NA	NA	NA	NA	NA	NA	hiu	Shark	NA	NA	NA	NA	NA
+195	pari	NA	NA	n	/pari/	NA	epari	/epari/	NA	NA	NA	pari	Ray	NA	NA	pari par	NA	NA
+196	pari par	NA	NA	n	/pari par/	NA	NA	NA	NA	NA	NA	pari kembanɡ	Spotted ray	NA	NA	NA	NA	NA
+197	pari do'ra	NA	NA	n	/pari doʔra/	NA	NA	NA	NA	NA	NA	pari pasir	Sand ray	NA	NA	pari par	NA	NA
+198	kėh	NA	FALSE	n	/kəh/	NA	NA	NA	NA	NA	NA	penyu	Sea turtle	NA	NA	NA	NA	NA
+199	tenggiri	NA	NA	n	/tenɡɡiri/	NA	NA	NA	NA	NA	NA	NA	Spotted ray	NA	NA	NA	NA	NA
+200	taripã	NA	NA	n	/taripã/	NA	NA	NA	NA	NA	NA	teripanɡ	Sea cucumber	NA	NA	NA	NA	NA
+201	kurnadito	NA	NA	n	/kurnadito/	NA	NA	NA	NA	NA	NA	teripang ular	spotted worm sea cucumber	NA	NA	NA	NA	NA
+202	remih	NA	NA	n	/rɛmih/	NA	NA	NA	NA	NA	NA	remis	Clam	NA	NA	NA	NA	NA
+203	yėp hia'au	NA	NA	n	/jiəp hijaʔaw/	NA	NA	NA	yė̃p	rumput	grass	rumput laut	Seaweed	NA	NA	NA	NA	NA
+204	NA	NA	FALSE	n	NA	NA	NA	NA	NA	NA	NA	jompol	(Unclear translation, possibly a local term)	NA	NA	NA	NA	NA
+205	pãẽk	NA	NA	n	/pãẽk/	NA	NA	NA	NA	NA	NA	udanɡ	Shrimp	NA	NA	NA	NA	NA
+206	pãẽk ha'au	NA	NA	n	/pãẽk haʔaw/	NA	NA	NA	NA	NA	NA	lobster	Lobster	NA	NA	NA	NA	NA
+207	par	NA	FALSE	n	/par/	NA	NA	NA	NA	NA	NA	ubur-ubur	Jellyfish	NA	NA	NA	NA	NA
+208	apũ'	NA	FALSE	n	/apũʔ/	NA	NA	NA	NA	NA	NA	ular	snake	NA	NA	NA	NA	NA
+209	mana'ai	y	NA	n	/manaʔaj/	NA	NA	NA	NA	NA	NA	ular laut	sea snake	NA	NA	NA	NA	NA
+210	puru koi	NA	FALSE	n	/puru koj/	NA	NA	NA	NA	NA	NA	bulu babi	Sea urchin	NA	NA	NA	NA	NA
+211	e:b	NA	NA	n	/eːb/	NA	NA	NA	NA	NA	NA	tedong-tedong	spider conch snail (lambis)	NA	NA	NA	NA	NA
+212	eah	NA	NA	n	/ejah/	NA	NA	NA	NA	NA	NA	armanɡ/belut laut	Sea eel	NA	NA	NA	NA	NA
