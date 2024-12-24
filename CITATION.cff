@@ -1,0 +1,43 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Enggano Flora and Fauna Lexicon
+message: Please cite this database if you use it for your research
+type: dataset
+authors:
+  - given-names: Dendi
+    family-names: Wijaya
+    email: dendi0587@gmail.com
+    affiliation: National Research and Innovation Agency
+    orcid: 'https://orcid.org/0000-0002-8767-9364'
+  - given-names: Gede Primahadi Wijaya
+    family-names: Rajeg
+    email: primahadi_wijaya@unud.ac.id
+    affiliation: University of Oxford & Universitas Udayana
+    orcid: 'https://orcid.org/0000-0002-2047-8621'
+  - given-names: Engga Zakaria
+    family-names: Sangian
+    email: ezs21072@gmail.com
+    affiliation: Universitas Dehasen Bengkulu
+    orcid: 'https://orcid.org/0009-0000-8802-6819'
+identifiers:
+  - type: url
+    value: 'https://github.com/engganolang/flora-fauna-lexicon'
+    description: The GitHub repository
+repository-code: 'https://github.com/engganolang/flora-fauna-lexicon'
+keywords:
+  - Enggano
+  - University of Oxford
+  - Universitas Udayana
+  - Badan Riset dan Inovasi Nasional (BRIN)
+  - Universitas Dehasen Bengkulu
+  - Enggano Flora and Fauna
+  - Lexical Databases
+  - Language Documentation
+  - Lexicography
+  - Lexical Resources
+  - Dictionary
+license: CC-BY-NC-SA-4.0
+version: 1.0.0
+date-released: '2024-12-24'
