@@ -40,7 +40,7 @@ International<img style="height:22px!important;margin-left:3px;vertical-align:te
 
 # Overview
 
-This is how to cite this repository:
+If you use the data from this repository, please cite as follows:
 
 > Wijaya, D., Rajeg, G. P. W., & Sangian, E. Z. (2024). Enggano Flora
 > and Fauna Lexicon (Version 1.0.0) \[Data set\].
@@ -50,10 +50,32 @@ This repository holds the annotated databases for the Enggano Flora and
 Fauna Lexicon. The databases, originally stored as Google Spreadsheets
 for collaboration, are then accessed and processed using R codes in
 [this repository](https://github.com/engganolang/enggano-flora-fauna).
-The processing includes, most importantly, creating links between the
-Enggano forms and their corresponding pictures (ID) to be used in the
-Contemporary Enggano Dictionary, which is processed using R
+The processing includes creating orthography profile and
+tokenisation/segmentation of the phonemic transcription, and, most
+importantly, creating links between the Enggano forms and their
+corresponding pictures (ID) to be used in the Contemporary Enggano
+Dictionary, which is processed using R
 [here](https://github.com/engganolang/eno-flex).
 
 The databases consist of four different file types: .rds (R data file),
 .csv, .tsv, and .xlsx.
+
+------------------------------------------------------------------------
+
+Dendi Wijaya gathered the primary data in October 2023 and November
+2024; transcribed the forms; translated them into Indonesian and
+English; provided the IPA transcription; and rename the photos according
+to the ID of the forms.
+
+Gede Primahadi W. Rajeg (GPWR) checked which items have been in the
+contemporary Enggano FLEx databases and which one to exclude from the
+main dictionary databases (e.g., due to duplication, etc.), in
+consultation with Engga Zakaria Sangian. GPWR also manually annotated
+the main entry variable of the forms so that complex forms can be
+subsumed under/linked to their main/root entry in the dictionary;
+annotated the crossref. column; performed the segmentation of the IPA
+transcription (and fixed errors); linked the forms ID with the photo by
+filename; manage this GitHub repository for archiving.
+
+Engga Zakaria Sangian was consulted in a number of meetings for the
+verification of orthography and inclusion of the forms.
