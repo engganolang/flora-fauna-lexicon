@@ -25,7 +25,11 @@ identifiers:
   - type: url
     value: 'https://github.com/engganolang/flora-fauna-lexicon'
     description: The GitHub repository
+  - type: doi
+    value: 10.25446/oxford.28091270.v1
+    description: The Oxford SDS DOI
 repository-code: 'https://github.com/engganolang/flora-fauna-lexicon'
+repository: 'https://doi.org/10.25446/oxford.28091270.v1'
 keywords:
   - Enggano
   - University of Oxford
