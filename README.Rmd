@@ -27,13 +27,15 @@ knitr::opts_chunk$set(
 
 </p>
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14553651.svg)](https://doi.org/10.5281/zenodo.14553651)
+
 <!-- badges: end -->
 
 # Overview
 
 If you use the data from this repository [@Wijaya_Enggano_Flora_and_2024], please cite as follows:
 
-> Wijaya, D., Rajeg, G. P. W., & Sangian, E. Z. (2024). Enggano Flora and Fauna Lexicon (Version 1.0.0) [Data set]. <https://github.com/engganolang/flora-fauna-lexicon>
+> Wijaya, D., Rajeg, G. P. W., & Sangian, E. Z. (2024). *Enggano Flora and Fauna Lexicon* (Version 1.0.0) [Data set]. Zenodo. <https://doi.org/10.5281/zenodo.14553651>
 
 This repository holds the annotated databases for the Enggano Flora and Fauna Lexicon. The databases, originally stored as Google Spreadsheets for collaboration, are then accessed and processed using R codes in [this repository](https://github.com/engganolang/enggano-flora-fauna) using several R packages [@cysouw_qlcdata_2024; @moran_unicode_2018; @wickham_welcome_2019; @ooms_writexl; @gdrive; @readxl; @gsheet]. 
 

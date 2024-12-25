@@ -38,6 +38,9 @@ Commons Attribution-NonCommercial-ShareAlike 4.0
 International<img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"/><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"/><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"/><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"/></a>
 
 </p>
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14553651.svg)](https://doi.org/10.5281/zenodo.14553651)
+
 <!-- badges: end -->
 
 # Overview
@@ -45,9 +48,9 @@ International<img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg
 If you use the data from this repository ([Wijaya et al.,
 2024](#ref-Wijaya_Enggano_Flora_and_2024)), please cite as follows:
 
-> Wijaya, D., Rajeg, G. P. W., & Sangian, E. Z. (2024). Enggano Flora
-> and Fauna Lexicon (Version 1.0.0) \[Data set\].
-> <https://github.com/engganolang/flora-fauna-lexicon>
+> Wijaya, D., Rajeg, G. P. W., & Sangian, E. Z. (2024). *Enggano Flora
+> and Fauna Lexicon* (Version 1.0.0) \[Data set\]. Zenodo.
+> <https://doi.org/10.5281/zenodo.14553651>
 
 This repository holds the annotated databases for the Enggano Flora and
 Fauna Lexicon. The databases, originally stored as Google Spreadsheets
@@ -156,7 +159,7 @@ Wickham, H., & Bryan, J. (2023). *Readxl: Read excel files* (Version
 
 Wijaya, D., Rajeg, G. P. W., & Sangian, E. Z. (2024).
 *<span class="nocase">Enggano Flora and Fauna Lexicon</span>* (Version
-1.0.0) \[Dataset\]. <https://github.com/engganolang/flora-fauna-lexicon>
+1.0.0) \[Dataset\]. Zenodo. <https://doi.org/10.5281/zenodo.14553651>
 
 </div>
 
