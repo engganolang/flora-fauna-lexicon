@@ -1,0 +1,253 @@
+NO	ENGGANO	IN_FLEX	INCLUDE	POS	PHONEME	PHONEME_SEGMENT	SENSE_ID	VARIANT	VARIANT_PHONEME	VARIANT_PHONEME_SEGMENT	MAIN_ENTRY	MAIN_ENTRY_IDN	MAIN_ENTRY_EN	CROSSREF	INDONESIAN	ENGLISH	NOTES_EN	NOTES_ID	GAMBAR	URL
+1	abu̇		TRUE	n	abɨ	a b ɨ									belukar	thicket				
+2	abeh	y	TRUE	n	abeh	a b e h									bambu	bamboo				
+3	abeh ka'kuni'		TRUE	n	abeh kaʔkuniʔ	a b e h # k a ʔ k u n i ʔ					abeh	bambu	bamboo		bambu kuning	yellow bamboo	A species of bamboo, slender yellow stems, which form strange zigzag patterns as they grow.	Spesies bambu, batang kuning ramping, yang membentuk pola zig-zag yang aneh saat mereka tumbuh.		
+4	amai	y	TRUE	n	amaj	a m a j		iamai	iamaj	i a m a j					tebu	sugarcane				
+5	anima	y	TRUE	n	anima	a n i m a									pandan	pandanus palm	a type of monocot plant from the Pandanaceae family that has distinctive fragrant leaves.	sejenis tanaman monokotil dari keluarga Pandanaceae yang memiliki daun wangi yang khas.		
+6	apu	y	TRUE	n	apu	a p u		apua	apua	a p u a					jenis kayu (pohon apuah)	tree species (apuah tree)				
+7	arkih	y	TRUE	n	arkih	a r k i h									beras	rice	Old Enggano, it is  “kaukih”, “terorkih”	Di bahasa Enggano Mula (Old Enggano), disebut “kaukih”, “terorkih”		
+8	aruki		TRUE	n	aruki	a r u k i									bakau runcing	pointed mangrove				
+9	atam	y	TRUE	n	atam	a t a m									asam	tamarind				
+10	ba	y	TRUE	n	ba	b a		ba'	baʔ	b a ʔ					ubi rambat/jalar	yam (cassava species)				
+11	ba'au	y	TRUE	n	baʔaw	b a ʔ a w									jambu	guava				
+12	ba'iob		TRUE	n	baʔjob	b a ʔ j o b		ba'iom ; ba'iok	baʔjom ; baʔjok	b a ʔ j o m # ; # b a ʔ j o k	ba	ubi rambat/jalar	yam (cassava species)		tumbuhan merambat yang batangnya digunakan sebagai tali	a climbing plant whose stems are used as rope				
+13	ba'iok		FALSE	n	baʔiok	b a ʔ i o k					ba	ubi rambat/jalar	yam (cassava species)		ubi jalar pantai	coastal sweet potato				
+14	ba'iom		FALSE	n	baʔiom	b a ʔ i o m					ba	ubi rambat/jalar	yam (cassava species)		ubi jalar hutan	forest sweet potato				
+15	bakayė	y	TRUE	n	bakajə	b a k a j ə		barkaiė ; barkayė	barkajə ; barkajə	b a r k a j ə # ; # b a r k a j ə					sirsak/srikaya	soursop				
+16	bėdėa		TRUE	n	bədəa	b ə d ə a									bayur	bayur				
+17	be po	y	TRUE	n	be pɔ	b e # p ɔ					po	kelapa	coconut		air kelapa	coconut water				
+18	beua		TRUE	n	bɛwa	b ɛ w a									ketapang pantai	coastal ketapang				
+19	cena'wan		TRUE	n	cenaʔwan	c e n a ʔ w a n								karepor	jamur	mushroom				
+20	dadė	y	TRUE	n	dadə	d a d ə									cabe	chili				
+21	dadė nu'pũ		TRUE	n	dadə nuʔpũ	d a d ə # n u ʔ p ũ					dadė	cabe	chili		merica	pepper				
+22	dakõah		TRUE	n	dakõah	d a k õ a h									lengkuas	galangal				
+23	didur		TRUE	n	didur	d i d u r									kuncup bunga	flower bud				
+24	dih kõ'kõ'		TRUE	n	dih kõʔkõʔ	d i h # k õ ʔ k õ ʔ					dih	daun muda; pucuk	young leaf; shoots	pururu	daun muda nipah	young palm leaves				
+25	dobah		FALSE	n	dobah	d o b a h									belukar	thicket	dobah hiuk ‘batas kampung’	“dobah hiuk” ‘batas kampung’		
+26	do'bed		TRUE	n	doʔbed	d o ʔ b e d								yẽãp	akar air	water roots	“do'bed” is a wild root that grows in the forest. It contains enough water that you can drink directly	“do'bed” adalah akar liar yang tumbuh di hutan. Akar ini mengandung cukup air sehingga Anda dapat meminumnya secara langsung		
+27	doto	y	TRUE	n	dɔtɔ	d ɔ t ɔ									daun puding	puding leaf				
+28	du		TRUE	n	du	d u								pit	getah	sap				
+29	du:de		TRUE	Adjective	duːde	d u ː d e									lengket	sticky				
+30	dudiad	y	TRUE	n	dudiad	d u d i a d									durian	durian fruit				
+31	ea' po		TRUE	n	eaʔ pɔ	e a ʔ # p ɔ					po	kelapa	coconut		kelapa tua	old coconut				
+32	e'a po		TRUE	n	eʔa pɔ	e ʔ a # p ɔ		ea po	ea pɔ	e a # p ɔ	po	kelapa	coconut		tempurung kelapa	coconut shell				
+33	ẽãh po		TRUE	n	ẽãh pɔ	ẽ ã h # p ɔ					po	kelapa	coconut		kelapa muda	young coconut				
+34	yẽãp	y	TRUE	n	ẽãp	ẽ ã p		ẽãp	ẽãp	ẽ ã p					akar	root				
+35	yẽãp po		TRUE	n	ẽãp pɔ	ẽ ã p # p ɔ					yẽãp	akar	root	po	akar kelapa	coconut roots				
+36	awa'	y	TRUE	n	auaʔ	a u a ʔ		eaua'	eauaʔ	e a u a ʔ					bakau	mangrove				
+37	dih	y	TRUE	n	dih	d i h		edih	edih	e d i h					daun muda; pucuk	young leaf; shoots				
+38	ei'be		TRUE	n	eiʔbe	e i ʔ b e									alang-alang	reeds				
+39	eiu̇h		TRUE	n	eiɨh	e i ɨ h									rengas	rengas tree	Most of these tree species produce good quality and beautiful red wood. The smell is like jambu monyet.	Sebagian besar spesies pohon ini menghasilkan kayu merah yang berkualitas baik dan indah. Aromanya seperti jambu monyet.		
+40	ke'	y	TRUE	n	keʔ	k e ʔ									duri rotan	rattan thorns				
+41	u̇ki	y	TRUE	n	ɨki	ɨ k i		ėki	əki	ə k i					mangga	mango				
+42	u̇ki ha'ku		TRUE	n	ɨki haʔku	ɨ k i # h a ʔ k u		ėki ha'ku	əki haʔku	ə k i # h a ʔ k u	u̇ki	mangga	mango		mangga hutan	forest mango				
+43	ku	y	TRUE	n	ku	k u		eku	ɛku	ɛ k u					kayu	wood				
+44	ep		TRUE	n	ɛp	ɛ p								none'e	nibung	nibung	Nibung is a type of palm that grows in the swamps of Southeast Asia, from Indochina to Kalimantan	Nibung adalah jenis palem yang tumbuh di rawa-rawa di Asia Tenggara, dari Indocina hingga Kalimantan		
+45	po	y	TRUE	n	pɔ	p ɔ		epo	ɛpɔ	ɛ p ɔ					kelapa	coconut				
+46	ho'ku	y	TRUE	n	hoʔku	h o ʔ k u		ha'kũ	haʔkũ	h a ʔ k ũ					hutan	forest				
+47	hiėb		TRUE	n	hiəb	h i ə b									terap	a kind of breadfruit				
+48	yė̃p	y	TRUE	n	jə̃p	j ə̃ p		hiė̃p	hiə̃p	h i ə̃ p					rumput	grass				
+49	yė̃p yãpã		TRUE	n	jə̃p iãpã	j ə̃ p # i ã p ã		hiė̃p yãpã	hiə̃p iãpã	h i ə̃ p # i ã p ã	yė̃p	rumput	grass		rumput jepang	Japanese grass				
+50	hĩũ	y	TRUE	n	hĩũ	h ĩ ũ									buah	fruit			50.jpg	https://drive.google.com/file/d/1WCMOeOyFaI7yVunPPjqxtvm_ghODbrV7/view
+51	hĩũ anima		TRUE	n	hĩũ anima	h ĩ ũ # a n i m a					hĩũ	buah	fruit		buah pandan	pandan fruit			51.jpg	https://drive.google.com/file/d/1S-bL9GRQx9PxtcVbQsmD-CIAG41M1UgW/view
+52	hĩũ hiėb		TRUE	n	hjũ hiəb	h j ũ # h i ə b					hĩũ	buah	fruit	hiėb	terap (buah)	terap (fruit)	A type of fruit tree from the jackfruit tree genus (Artocarpus). The fruit is similar to a small jackfruit, with a strong fragrant smell, as reflected by its scientific name: Artocarpus odoratissimus	Sejenis pohon buah dari genus pohon nangka (Artocarpus). Buahnya mirip dengan nangka kecil, dengan bau harum yang kuat, seperti yang tercermin dari nama ilmiahnya: Artocarpus odoratissimus		
+53	yu'		TRUE	n	juʔ	j u ʔ									tangkai	stalk				
+54	yahe'	y	TRUE	n	jaheʔ	j a h e ʔ		iahe'	jaheʔ	j a h e ʔ					jahe	ginger				
+55	yahaid	y	FALSE	n	jahaid	j a h a i d		yaher	jaher	j a h e r					susunan kerikil; karang yang disusun	stack of pebbles; arranged coral	NOT FLORA			
+56	kabėd iok		TRUE	n	kabəd iok	k a b ə d # i o k					kabėd	beringin hutan yang memiliki daun sedikit lebar	forest fig trees with slightly broader leaves	yakãkã	beringin pantai	banyan beach				
+57	yãkãh	y	TRUE	n	iakah	i a k a h									gagang	stem; handle				
+58	iakãkã		FALSE	n	jakãkã	j a k ã k ã								yẽãp	beringin akar gantung	banyan with hanging roots				
+59	yãkõ	y	TRUE	n	jãkõ	j ã k õ		iakõ	jakõ	j a k õ					jagung	corn				
+60	amai	y	FALSE	n	amaj	a m a j		iamai	iamaj	i a m a j					tebu	sugarcane	DUPLICATE			
+61	jekor	y	TRUE	n	jekor	j e k o r		yekor	jekor	j e k o r					jengkol	blackbead; dogfruit				
+62	yi' ku		TRUE	n	jiʔ ku	j i ʔ # k u		ii' ku	hiʔ ku	h i ʔ # k u	yi'	pantat	buttocks		bongkol kayu	wood stump				
+63	it	y	TRUE	n	it	i t									pisang	banana				
+64	it kama'ian		TRUE	n	it kamaʔjan	i t # k a m a ʔ j a n					it	pisang	banana		spesies pisang lokal Enggano yang memiliki buah agak kecil. Daun pisang ini digunakan sebagai penangkal roh jahat dalam tradisi masyarakat Enggano	A local species of banana with small fruit; its leaves are used to repel evil spirits in Enggano culture				
+65	it kami		TRUE	n	it kami	i t # k a m i					it	pisang	banana		pisang raja serai, pisang kemiu merah dan putih	raja serai banana, red and white kemiu banana				
+66	it ka'u hiėp		TRUE	n	it kaʔu hiəp	i t # k a ʔ u # h i ə p					it	pisang	banana		pisang obat sesak napas/harum manis	Bananas are a medicine for shortness of breath/sweet smell				
+67	it kehrok		TRUE	n	it kehrok	i t # k e h r o k					it	pisang	banana		pisang jantan	male banana	Musa acuminata × M. balbisiana	Musa acuminata × M. balbisiana		
+68	it ki'ta		TRUE	n	it kiʔta	i t # k i ʔ t a					it	pisang	banana		jenis pisang lama yang sudah tidak ada lagi	an old type of banana that no longer exists				
+69	it pio' ayam		TRUE	n	it pioʔ ajam	i t # p i o ʔ # a j a m					it	pisang	banana		pisang tandang panjang buah kecil seperti paruh ayam	A long banana, a small fruit like a chicken's beak				
+70	it porbik		TRUE	n	it porbik	i t # p o r b i k					it	pisang	banana		pisang ambon	Ambon banana				
+71	itor		TRUE	n	itor	i t o r									teras	terrace				
+72	iuk	y	TRUE	n	iuk	i u k		iũk	iũk	i ũ k					kulit	skin				
+73	ka'ah	y	TRUE	n	kaʔah	k a ʔ a h									Matoa/Kasai (Pometia pinnata) adalah tanaman yang tersebar luas di Asia Tenggara, Asia Selatan dan Melanesia. Pohon matoa berukuran relatif besar dengan tinggi rata-rata 18 meter dan diameter rata-rata maksimum 100 cm.	Matoa (Pometia pinnata) is a plant that is widely distributed in Southeast Asia, South Asia and Melanesia. Matoa trees are relatively large with an average height of 18 meters and a maximum average diameter of 100 cm.				
+74	ka'ah	y	FALSE	n	kaʔah	k a ʔ a h									Matoa Enggano/kasai (jenis kayu)	Matoa Enggano/kasai (tree species)	Matoa (Pometia pinnata) is a plant that is widely distributed in Southeast Asia, South Asia and Melanesia. Matoa trees are relatively large with an average height of 18 meters and a maximum average diameter of 100 cm.	Matoa (Pometia pinnata) adalah tanaman yang tersebar luas di Asia Tenggara, Asia Selatan dan Melanesia. Pohon matoa berukuran relatif besar dengan tinggi rata-rata 18 meter dan diameter rata-rata maksimum 100 cm.		
+75	kabėd	y	TRUE	n	kabəd	k a b ə d								yakãkã	beringin hutan yang memiliki daun sedikit lebar	forest fig trees with slightly broader leaves	kakã	kakã		
+76	katã		TRUE	n	katã	k a t ã								kãtã	kacang panjang	long beans				
+77	kadaka'		TRUE	n	kadakaʔ	k a d a k a ʔ									kadaka	kadaka				
+78	kaha'iė'ėa'		TRUE	Quantifier	kahaʔiəʔəaʔ	k a h a ʔ i ə ʔ ə a ʔ								hã'ũ	seikat	a bunch of				
+79	kaha'iu'		TRUE	Quantifier	kahaʔiuʔ	k a h a ʔ i u ʔ								hã'ũ	setandan	a bunch of	usually for banana	biasanya untuk pisang		
+80	kahẽ		FALSE	n	kahẽ	k a h ẽ									ubur-ubur	jellyfish	NOT FLORA			
+81	kakitau		TRUE	Quantifier	kakitaw	k a k i t a w								hã'ũ	sesisir	a bunch of	usually for banana	biasanya untuk pisang		
+82	kãkõ	y	TRUE	n	kãkõ	k ã k õ		kakõ	kakõ	k a k õ					kangkung	water spinach				
+83	kõ'kã'	y	TRUE	n	kõʔkãʔ	k õ ʔ k ã ʔ		ka'kõã'	kaʔkõãʔ	k a ʔ k õ ã ʔ					biji	seed				
+84	kamak		TRUE	n	kamak	k a m a k									tembakau	tobacco				
+85	kapã		TRUE	n	kapã	k a p ã								atam	asam kandis	kandis tamarind	Asam Kandis (Garcinia xanthochymus) belongs to a group of trees whose leaves are evergreen, meaning they do not shed their leaves in autumn.	Asam Kandis (Garcinia xanthochymus) termasuk dalam kelompok pohon yang daunnya selalu hijau, yang berarti tidak menggugurkan daunnya di musim gugur.		
+86	kapareak	y	TRUE	n	kapareak	k a p a r e a k		kaparea'	kapareaʔ	k a p a r e a ʔ					daun pisang kering/mati	dried/dead banana leaves				
+87	kapaer	y	TRUE	n	kapaer	k a p a e r		kaper	kaper	k a p e r					pepaya	papaya				
+88	ka'por apara		TRUE	n	kaʔpor apara	k a ʔ p o r # a p a r a									bagian batang anggrek hutan yang membesar yang digunakan sebagai obat sakit mata.	Enlarged parts of forest orchids' stems used to treat eye pain	flower hump orchids like chicks	anggrek punuk bunga seperti anak ayam		
+89	kapo'		TRUE	n	kapoʔ	k a p o ʔ									kapuk	kapok				
+90	ka'pũk		TRUE	n	kaʔpũk	k a ʔ p ũ k									semak	bush				
+91	karepor		FALSE	n	karepor	k a r e p o r	karepor_1								jamur	mold				
+92	karepor		TRUE	n	karepor	k a r e p o r	karepor_2								lumut	moss				
+93	kariri		TRUE	n	kariri	k a r i r i									kuncup (runcing)	bud (pointed)				
+94	kãtã	y	TRUE	n	kãtã	k ã t ã									kacang	peanut				
+95	kė'	y	FALSE	v	kəʔ	k ə ʔ									menanam	plant	DUPLICATE			
+96	kẽ		TRUE	n	kɛ̃	k ɛ̃									jeruk	orange				
+97	kė' ku		TRUE	n	kəʔ ku	k ə ʔ # k u					akė	patah	broken		cabang	branch				
+98	kėd		TRUE	n	kəd	k ə d									umbi	tubers				
+99	kė'ėh	y	TRUE	n	kəʔəh	k ə ʔ ə h	kė'ėh_1				kė'	menanam	plant		tanaman; tumbuhan	plant				
+100	kė'ėh		FALSE	n	kəʔəh	k ə ʔ ə h	kė'ėh_2								tumbuhan	plant				
+101	kė'ėic		TRUE	n	kəʔəic	k ə ʔ ə i c								dih	tunas	shoots				
+102	kekeb		TRUE	n	kekeb	k e k e b									lamun atau jeramun	seagrass			102.jpg	https://drive.google.com/file/d/1S0V9pImlQtUJA73bhnSQ9JA6mbN-niWO/view
+103	kida'aur		TRUE	n	kidaʔaur	k i d a ʔ a u r									ketaping hutan	forest catfish				
+104	kibo		TRUE	n	kibo	k i b o									timba air dari pelepah nibung	draw water from the stem of the nibung				
+105	kĩhĩ	y	TRUE	n	kĩhĩ	k ĩ h ĩ		kihĩ	kihĩ	k i h ĩ					rotan halus; rotan cacing; Rotan Seuti (Calamus ornatus Blume)	small pieces of rattan; warm rattan				
+106	kihiur	y	TRUE	n	kihiu̇r	k i h i u̇ r	kihiur_1							po	daun kelapa kering	dry coconut leaves				
+107	kihiur	y	TRUE	n	kihiu̇r	k i h i u̇ r	kihiur_2							po	lidi	stick				
+108	kikoh	y	TRUE	n	kikoh	k i k o h									ubi kayu; ketela	cassava				
+109	kikõm		TRUE	v	kikõm	k i k õ m									merayap	creeping				
+110	kinau		TRUE	n	kinaw	k i n a w	kinau_1								tanaman rimpang yang daunnya digunakan oleh masyarakat enggano sebagai pembungkus nasi	A rhizome plant whose leaves are used by the Enggano people to wrap rice				
+111	kinau		FALSE	n	kinaw	k i n a w	kinau_2								tanaman seperti kunyit buahnya dimakan	plants such as turmeric whose fruit is eaten				
+112	kinu'ik		TRUE	n	kinuʔik	k i n u ʔ i k									kuncup	bud				
+113	kipurik		FALSE	v	kipurik	k i p u r i k					purik	tumbuh	grow		tumbuh	grow	DUPLICATE			
+114	kira'aud		TRUE	n	kiraʔaur	k i r a ʔ a u r									ketapang digunakan untuk membuat sampan	Ketapang that is used to make canoes				
+115	kite	y	TRUE	n	kite	k i t e									kayu merbau	merbau tree				
+116	nono ep		TRUE	n	nono ɛp	n o n o # ɛ p					none'e	pelepah nibung	nibung tree branch	kõ' põ	pelepah nibung	nibung midrib				
+117	kõ' põ		TRUE	n	kõʔ pɔ̃	k õ ʔ # p ɔ̃					po	kelapa	coconut		pelepah kelapa	midrib				
+118	kõ'ĩã	y	TRUE	n	kõʔj̃ã	k õ ʔ j̃ ã		kõ'ia	kõʔja	k õ ʔ j a					melinjo	melinjo (a gnetum nut-tree species)			118.jpg	https://drive.google.com/file/d/1S0wSnX2A9sl6psgEd96zSbmU30sXQKA7/view
+119	kõ'kõ'	y	TRUE	n	kõʔkõʔ	k õ ʔ k õ ʔ									nipah	nipa palm			119.jpg	https://drive.google.com/file/d/1SCNDUYxTYDUr-G1SUBhfZuIjIRwQkkhq/view
+120	kopar ha'ku		TRUE	n	kopar haʔku	k o p a r # h a ʔ k u									anggrek	orchid				
+121	ku ba'au		TRUE	n	ku baʔaw	k u # b a ʔ a w					ku	kayu	wood	ba'au	jambu hutan	forest guava				
+122	ku ba'au ha'ku		TRUE	n	ku baʔau haʔku	k u # b a ʔ a u # h a ʔ k u					ku	kayu	wood	ba'au	kayu untuk tiang rumah	wood for house poles				
+123	ku bėdėa		TRUE	n	ku bədəa	k u # b ə d ə a					ku	kayu	wood		jenis kayu yang digunakan untuk membuat sampan	the type of wood used to make the canoe				
+124	ku do'bed		TRUE	n	ku doʔbed	k u # d o ʔ b e d					ku	kayu	wood		jenis kayu hutan	types of forest wood				
+125	ku ėa		TRUE	n	ku əa	k u # ə a					ku	kayu	wood		sejenis kayu hutan dipakai untuk papan cor	a type of forest wood used for cast boards				
+126	ku heop heop		TRUE	n	ku heop heop	k u # h e o p # h e o p					ku	kayu	wood		sape	sape				
+127	ku iaik		TRUE	n	ku jaik	k u # j a i k					ku	kayu	wood		jenis kayu untuk membuat pondok	types of wood for making huts				
+128	ku iėhė		TRUE	n	ku iəhə	k u # i ə h ə					ku	kayu	wood		jenis kayu yang digunakan untuk papan rumah yang muncul motif jika dipelitur; kayu untuk sambungan bibir sampan	the type of wood used for house boards that appear motifs when polished; wood for connecting the canoe's lip				
+129	ku iėhė		FALSE	n	jəhə	j ə h ə					ku	kayu	wood							
+130	ku iėr		TRUE	n	ku iər	k u # i ə r					ku	kayu	wood		mengkudu	noni				
+131	ku ka'ah	y	TRUE	n	ku kaʔah	k u # k a ʔ a h					ka'ah	Matoa Enggano/kasai (jenis kayu)	Matoa Enggano/kasai (tree species)		kayu kasai (jenis kayu hutan)	kind of fragrant tree (types of forest wood)				
+132	ku kara'a		TRUE	n	ku karaʔa	k u # k a r a ʔ a					kara'a	sejenis kayu	a kind of tree		kayu darah	bloodwood	getah merah	red sap		
+133	ku ke'eok		TRUE	n	ku keʔeok	k u # k e ʔ e o k					ku	kayu	wood		waru	Waru				
+134	ku kiko'ok		TRUE	n	ku kikoʔok	k u # k i k o ʔ o k					ku	kayu	wood		kayu bahan rumah, kulitnya berwarna kuning	house wood, the skin is yellow				
+135	ku kũã'ãu		TRUE	n	kũwãʔãw	k ũ w ã ʔ ã w					ku	kayu	wood		Tanaman perdu yang tumbuh di pesisir pantai Enggano yang daunnya berfungsi sebagai obat penangkal racun yang diakibatkan oleh sengatan ubur-ubur.	A shrub growing on the coast of Enggano Island whose leaves serve as an antidote for poison caused by jellyfish stings				
+136	ku mom		TRUE	n	ku mom	k u # m o m					ku	kayu	wood	ku ba'au	jambu hutan	forest guava				
+137	ku na'inė		TRUE	n	ku naʔinə	k u # n a ʔ i n ə					na'inė	tanaman yang digunakan untuk tari adat	plants used for clothing in the traditional dances		kayu hutan	forest wood				
+138	ku na'inė		FALSE	n	ku naʔinə	k u # n a ʔ i n ə					ku	kayu	wood		kayu hutan	forest wood				
+139	ku na'õã		TRUE	n	ku naʔõã	k u # n a ʔ õ ã					ku	kayu	wood		kenanga	kenanga				
+140	ku pakari'ah		TRUE	n	ku pakariʔah	k u # p a k a r i ʔ a h					ku	kayu	wood		pohon kondang makanan burung	famous bird food tree				
+141	ku pupua		TRUE	n	ku pupua	k u # p u p u a					ku	kayu	wood		jenis kayu hutan yang menjulang tinggi buahnya seperti potongan ikan lumba-lumba	a type of forest wood that has towering fruit like pieces of dolphin fish				
+142	ku pĩ'		TRUE	n	ku pĩʔ	k u # p ĩ ʔ					ku	kayu	wood		sejenis kayu hutan	a kind of forest wood				
+143	ku pi'kėh		TRUE	n	ku piʔkəh	k u # p i ʔ k ə h					ku	kayu	wood		kayu untuk kasau	wood for rafters				
+144	ku pikoror		FALSE	n	ku pikoror	k u # p i k o r o r					ku	kayu	wood		sejenis kayu hutan yang getahnya berwarna merah	a type of forest wood whose sap is red			144.jpg	https://drive.google.com/file/d/1SFIlmIjdzh3tzTMgpOzO23ybmvooY1TV/view
+145	ku pokoror		TRUE	n	ku pokoror	k u # p o k o r o r					ku	kayu	wood		sejenis kayu hutan yang getahnya berwarna merah	a type of forest wood whose sap is red				
+146	ku punin		TRUE	n	ku punin	k u # p u n i n					ku	kayu	wood		kayu putih	eucalyptus	for firewood	untuk kayu api		
+147	ku umih		TRUE	n	ku uːmih	k u # u ː m i h					ku	kayu	wood		jenis kayu hutan yang berbatang lurus dan bergetah merah. Kayu dari pohon ini dapat digunakan untuk papan dan getahnya digunakan unutk pewarna kuku	a type of forest wood that has straight trunks and red gum. The wood of this tree can be used for boards and the sap is used to dye nails			147.jpg	https://drive.google.com/file/d/1SGpz6k2BU9n4mkwtOyjue1pNjjdPTU8j/view
+148	kuahai		TRUE	n	kuahaj	k u a h a j									karang jari	finger coral				
+149	dobah		TRUE	n	dobah	d o b a h								dobah	tanaman perdu	shrub plantations				
+150	ku'eob		TRUE	n	kuʔeob	k u ʔ e o b									bintangor	Bintangor	the fruit is eaten by pigs	buahnya dimakan babi (eob), bemuk babi makannya		
+151	kũ'ui' po		TRUE	n	kũʔuiʔ pɔ	k ũ ʔ u i ʔ # p ɔ					po	kelapa	coconut	epo	putik kelapa	coconut pistil				
+152	kũk		TRUE	n	kũk	k ũ k								yãkãh	batang	stem				
+153	kũk ku		TRUE	n	kũk ku	k ũ k # k u					kũk	batang	stem		pohon	tree				
+154	kũk po		TRUE	n	kũʔ pɔ	k ũ ʔ # p ɔ					po	kelapa	coconut	epo	batang kelapa	coconut trunk				
+155	kuneh		TRUE	n	kuneh	k u n e h									tanaman pagar	hedgerows				
+156	kuyit	y	TRUE	n	kujit	k u j i t		kuni'	kuniʔ	k u n i ʔ					kunyit	turmeric				
+157	pururu kahõk		TRUE	n	pururu kahõk	p u r u r u # k a h õ k					puru	daun	leaf	anima	daun pandan	Pandan leaves			157.jpg	https://drive.google.com/file/d/1SHpEMgTJmsJ9sGbDw7xep6AW1aKhHMm3/view
+158	manimi		TRUE	n	manimi	m a n i m i									belimbing	star fruit				
+159	muo	y	TRUE	n	muo	m u o		mũo	mũo	m ũ o					bunga	flower				
+160	mũo ka'man		TRUE	n	mũo kaʔman	m ũ o # k a ʔ m a n					muo	bunga	flower		mawar	rose				
+161	muõ roh		TRUE	n	roh	r o h					muo	bunga	flower		bougenville	bougainvillea				
+162	na'inė	y	TRUE	n	naʔinə	n a ʔ i n ə									tanaman yang digunakan untuk tari adat	plants used for clothing in the traditional dances			162.jpg	https://drive.google.com/file/d/1SIcw4ZxFS3R1yTXA7FjGlxtYBU_f_sBY/view
+163	na'inė eo		TRUE	n	naʔinə eo	n a ʔ i n ə # e o					na'inė	tanaman yang digunakan untuk tari adat	plants used for clothing in the traditional dances		putat air	water putat				
+164	nanah		TRUE	n	nanah	n a n a h									nanas	pineapple				
+165	onje'		TRUE	n	ondʒeʔ	o n d ʒ e ʔ									kecombrang	combrang				
+166	pakihiėb	y	TRUE	n	pakihiəb	p a k i h i ə b		pakihiėm	pakihiəm	p a k i h i ə m					bakung; tanaman perdu yang digunakan sebagai pakaian adat dalam tari perang	daffodil				
+167	paku		TRUE	n	paku	p a k u								pakis	pakis	fern				
+168	pate		TRUE	n	pate	p a t e									petai	petai				
+169	pė'ėa		FALSE	n	pəʔəa	p ə ʔ ə a									sejenis palem yang dapat digunakan untuk membuat kursi	a type of palm that can be used to make chairs				
+170	pė'ėa' i'i		FALSE	n	pəʔəa iʔi	p ə ʔ ə a # i ʔ i									rotan parut	shredded rattan				
+171	pė'ėd		TRUE	n	pəʔəd	p ə ʔ ə d									waru, tanaman perdu yang bunganya berwarna kuning dan digunakan sebagai obat bisul	Waru, a shrub with yellow flowers, used as a remedy for boils				
+172	pė̃kã po		FALSE	n	pə̃kã po	p ə̃ k ã # p o					pėkã	seludung kelapa/pelepah	spathe		pelepah mayang	coconut spathe				
+173	ping		TRUE	n	piŋ	p i ŋ		pĩ	pĩ	p ĩ					emping	emping cracker				
+174	pik		TRUE	n	pik	p i k									manggis	mangosteen				
+175	pina	y	TRUE	n	pina	p i n a									pinang	betel nut				
+176	pit	y	TRUE	n	pit	p i t									sejenis getah	a kind of sap				
+177	pit hiėb		TRUE	n	pit hiəb	p i t # h i ə b					pit	sejenis getah	a kind of sap		getah terap	terap (i.e., breadfruit-like) rubber				
+178	po kinok		TRUE	n	pɔ kinok	p ɔ # k i n o k					po	kelapa	coconut		kopra	copra				
+179	porpi'	y	TRUE	n	porpiʔ	p o r p i ʔ									bungkusan untuk rokok linting dari daun nipah kering	hand-rolled cigarette paper from dried nipa palm leaves				
+180	pũ'ėa' i'i		FALSE	n	pũ əʔəaʔ iʔi	p ũ # ə ʔ ə a ʔ # i ʔ i								kĩhĩ	rotan kasar manau/kertas	Manau coarse rattan/paper				
+181	pu̇'ėa'i'i		FALSE	n	pu̇ʔəaʔiʔi	p u̇ ʔ ə a ʔ i ʔ i								pu'a	rotan kertas	paper rattan				
+182	puk it		TRUE	n	puk it	p u k # i t					puk	pusar	navel		jantung pisang (lit. pusar pisang)	banana blossom (lit. the navel of the banana)				
+183	purar		FALSE	n	purar	p u r a r								duri'	duri ikan	fish bone	NOT FLORA			
+184	puru kitoh		TRUE	n	puru kitoh	p u r u # k i t o h					puru	daun	leaf	kitoh	jenis tanaman rimpang bertulang daun sejajar yang daunnya digunakan sebagai pembungkus nasi	A type of rhizome plant with parallel-veined leaves, used to wrap rice				
+185	puru pė'ėr		TRUE	n	puru pəʔər	p u r u # p ə ʔ ə r					puru	daun	leaf	pururu	daun waru	hibiscus leaves				
+186	pururu		TRUE	n	pururu	p u r u r u					puru	daun	leaf		daun	leaf				
+187	pururu hiė̃b		TRUE	n	pururu hiə̃b	p u r u r u # h i ə̃ b					puru	daun	leaf	hiėb	daun terap	terap (i.e., breadfruit-like) leaves				
+188	pururu ka'kih		TRUE	n	pururu kaʔkih	p u r u r u # k a ʔ k i h					puru	daun	leaf	pururu	daun kering	dried leaves				
+189	pururu kõ'kõ'		TRUE	n	pururu kõʔkõʔ	p u r u r u # k õ ʔ k õ ʔ					puru	daun	leaf	kõ'kõ'	daun nipah	palm leaves				
+190	seres		TRUE	n	seres	s e r e s									ceri	cherry				
+191	tabu̇da'	y	TRUE	n	tabɨdaʔ	t a b ɨ d a ʔ		tabėda'	tabədaʔ	t a b ə d a ʔ					nangka	jackfruit				
+192	tarai		TRUE	n	tarai	t a r a i									serai	lemongrass				
+193	taru	y	TRUE	n	taru	t a r u									terong	eggplant				
+194	teke	y	TRUE	n	tɛkɛ	t ɛ k ɛ									cengkeh	cloves				
+195	tiri	y	TRUE	n	tiri	t i r i									sirih	betel				
+196	tũkun		TRUE	n	tũkun	t ũ k u n									sukun	breadfruit				
+197	ubi'	y	TRUE	n	ubiʔ	u b i ʔ									nama sejenis salak	a kind of snakeskin fruit			197.jpg	https://drive.google.com/file/d/1SIrLTQBJGFVbmCaTyuOxOp297NYILPhE/view
+198	udėp	y	TRUE	n	udəp	u d ə p									talas	taro				
+199	sidukung ana'		TRUE	n	sidukunɡ anaʔ	s i d u k u n ɡ # a n a ʔ	jenis rumput								herbal jamu	herbal drink				
+200	iuk jekor		FALSE	n	iuk jekor	i u k # j e k o r					iuk	kulit	skin	jekor	kulit jengkol	husks of the blackbead/dog fruit				
+201	dih nan		TRUE	n	dih nan	d i h # n a n					dih	daun muda; pucuk	young leaf; shoots	dih kõ'kõ'	tanaman perdu yang memiliki daun lonjong berwarna hijau yang biasanya digunakan sebagai obat Malaria, nama lokal lainnya 'pucuk subang'	A shrub with elongated green leaves, commonly used as a malaria remedy, other local name is pucuk subang	It is used as a medicine for Malaria	Ini digunakan sebagai obat untuk Malaria		
+202	puk	y	TRUE	n	puk	p u k									pusar	navel				
+203	kakė	y	FALSE	v	kakə	k a k ə									patah	broken				
+204	purik	y	TRUE	v	purik	p u r i k									tumbuh	grow				
+205	kara'a	y	TRUE	n	karaʔa	k a r a ʔ a									sejenis kayu	a kind of tree				
+206	pėkã po	y	TRUE	n	pəkã po	p ə k ã # p o					pėkã	pelepah/seludung	spathe		pelepah/seludung kelapa	coconut spathe				
+207	yumu yi'kėh		TRUE	n	jumu jiʔkəh	j u m u # j i ʔ k ə h									pohon berdaun lebar yang daunnya seringkali digunakan masyarakat Enggano oleh masyarakat Enggano sebagai penutup bagian perut penyu setelah dibersihkan	A broad-leaved tree whose leaves are often used by the Enggano people to cover the cleaned belly of turtles				
+208	ku harah		TRUE	n	ku harah	k u # h a r a h					ku	kayu	wood		kayu harah atau kayu hutan tumbuh di pesisir pantai yang daunnya digunakan sebagai obat Malaria	Harah wood or forest wood growing on the coast, with leaves used as a malaria remedy				
+209	kanim		TRUE	n	kanim	k a n i m									tanaman perdu yang daunnya digunakan sebagai racun organik dalam menangkap ikan	A shrub whose leaves are used as an organic poison to catch fish				
+210	yakãkã		TRUE	n	jakãkã	j a k ã k ã									beringin pantai memiliki akar gantung dengan daun kecil	Coastal fig trees with hanging roots and small leaves				
+211	yėp akoma'		TRUE	n	jəp akomaʔ	j ə p # a k o m a ʔ					yė̃p	rumput	grass		jenis rumput liar berakar serabut dan memiliki sistem geragih dalam perkembangbiakkannya. Rumput ini memiliki fungsi sebagai obat penangkal racun chilopoda seperti kelabang	A type of wild grass with fibrous roots and a stolon system in its growth, functioning as an antidote for centipede venom				
+212	kuni' bonglai		TRUE	n	kuniʔ boŋlaj	k u n i ʔ # b o ŋ l a j					kuyit	kunyit	turmeric		tumbuhan akar rimpang yang memiliki umbi seperti kunyit pada umumnya, tetapi digunakan sebagai penagkal roh jahat dalam kepercayaan masyarakat Enggano	A rhizome plant with turmeric-like roots, traditionally believed by the Enggano people to ward off evil spirits				
+213	kinamaki		TRUE	n	kinamaki	k i n a m a k i									tanaman perdu yang tumbuh di hutan, memiliki bunga merah dan berkhasiat sebagai obat sesak napas	A shrub in the forest with red flowers that serve as a remedy for shortness of breath				
+214	pi'yeh		TRUE	n	piʔjeh	p i ʔ j e h									tanaman perdu memiliki bunga putih keunguan serta buah yang berwarna ungu tua ketika matang	A shrub with purple-white flowers and dark purple fruit when ripe				
+215	hori		TRUE	n	hori	h o r i									tanaman perdu yang ada di hutan Enggano yang bermanfaat dalam pengobatan hordeolum atau bintil mata	A shrub in the Enggano forest beneficial for treating hordeolum or eye styes				
+216	kuni' iė'		TRUE	n	kuniʔ jiəʔ	k u n i ʔ # j i ə ʔ					kuyit	kunyit	turmeric		kunyit atau kunir (Curcuma longa Linn. syn. Curcuma domestica Val.)	Turmeric or kunyit (Curcuma longa Linn., syn. Curcuma domestica Val.)				
+217	yara'		TRUE	n	jaraʔ	j a r a ʔ									jarak	Castor plant				
+218	ku neh		TRUE	n	ku neh	k u # n e h					ku	kayu	wood		jenis kayu hutan yang seringkali digunakan oleh masyarakat Enggano sebagai tanaman pagar	A type of forest wood often used by the Enggano people as fencing plants				
+219	yėp kanokeh		TRUE	n	jəp kanokeh	j ə p # k a n o k e h					yė̃p	rumput	grass		jenis rumput liar yang memiliki daun kecil dan bunga berwarna putih dan ungu	A type of wild grass with small leaves and white-purple flowers				
+220	udėp ka'kėh		TRUE	n	udəp kaʔkəh	u d ə p # k a ʔ k ə h					udėp	talas	taro		keladi hitam	Black taro				
+221	udėp eo		TRUE	n	udəp eɔ	u d ə p # e ɔ					udėp	talas	taro		keladi hijau yang dapat dijadikan bahan masakan/keladi rawah	Green taro, which can be used as cooking ingredients				
+222	kahũk		TRUE	n	kahũk	k a h ũ k									pandan wangi	Fragrant pandan				
+223	eyãp kakuni'		TRUE	n	ejãp kakuniʔ	e j ã p # k a k u n i ʔ					yẽãp	akar	root		akar kuning	yellow root				
+224	apua kahuroro		TRUE	n	apuwa kahuroro	a p u w a # k a h u r o r o					yẽãp	akar	root		jenis pohon apua	kind of apua tree				
+225	ku aro'or		TRUE	n	ku aroʔor	k u # a r o ʔ o r					ku	kayu	wood		Jenis kayu hutan berdaun lebar	Broad-leaved forest wood species				
+226	ba'au kerutu'	y	TRUE	n	baʔaw kerutuʔ	b a ʔ a w # k e r u t u ʔ					ba'au	jambu	guava		jambu biji	guava				
+227	cokla'		TRUE	n	t͡ʃoklaʔ	t͡ʃ o k l a ʔ									coklat	cacao				
+228	eiob-eiob		TRUE	n	ejob-ejob	e j o b - e j o b									kayu hutan berdaun lebar dan memiliki batang lurus	forest wood with broad leaves and having a straight trunk				
+229	it kėpo'		TRUE	n	it kəpoʔ	i t # k ə p o ʔ					it	pisang	banana		pisang kepok	kepok banana				
+230	ka'pã		TRUE	n	kaʔpã	k a ʔ p ã									jerangau	Acorus calamus				
+231	hĩũ ki'ion		TRUE	n	hiũ kiʔjon	h i ũ # k i ʔ j o n					hĩũ	buah	fruit		buah pohon ki'yon	the fruit of “ki'yon” tree				
+232	kahimėk		TRUE	n	kahimək	k a h i m ə k														
+233	ku kari'ėr		TRUE	n	kariʔər	k a r i ʔ ə r					ku	kayu	wood	kari'iė	jenis kayu hutan yang batangnya digunakan sebagai tombak, gagang kampak, dan lain sebagainya.	a type of forest wood whose stems are used as spears, axe handles, and so on.				
+234	kei' ku		TRUE	n	keiʔ ku	k e i ʔ # k u									ubi hutan	forest yam				
+235	kėsendet		TRUE	n	kəsendet	k ə s e n d e t									ciplukan	Physalis Angulata				
+236	kida'aur		TRUE	n	kidaʔaur	k i d a ʔ a u r									jenis kayu hutan	forest wood species				
+237	ku dai'		TRUE	n	kudaiʔ	k u d a i ʔ					ku	kayu	wood		jenis kayu hutan	forest wood species				
+238	ku ema		TRUE	n	ku ema	k u # e m a					ku	kayu	wood		jenis kayu hutan	forest wood species				
+239	iėr		TRUE	n	jər	j ə r									mengkudu	pace				
+240	kũã'ãu		FALSE	n	kũãʔãw	k ũ ã ʔ ã w									kayu hutan	forest wood				
+241	kurur		TRUE	n	kurur	k u r u r									kundur	the wax gourd (Benincasa hispida)				
+242	kuni' bed	y	TRUE	n	kuniʔ bed	k u n i ʔ # b e d					kuyit	kunyit	turmeric		kunyit/temulawak	turmeric				
+243	pakihiėp		FALSE	n	pakihiəp	p a k i h i ə p									tanaman perdu yang digunakan sebagai pakaian adat dalam tari perang	shrubs used as traditional clothing in war dance				
+244	pė'ėa' yi'i		TRUE	n	pəʔəaʔ jiʔi	p ə ʔ ə a ʔ # j i ʔ i					pu'a	rotan kasar	large rattan pieces		Rotan Sanjat (Calamus paspalanthus Beccari)	a kind of rattan				
+245	pė'ėa'		TRUE	n	pəʔəaʔ	p ə ʔ ə a ʔ									Rotan Balubuk (Calamus burckianus Beccari)	a kind of rattan				
+246	pė'ėa' kĩhĩ		TRUE	n	pəʔəaʔ kihi	p ə ʔ ə a ʔ # k i h i					kĩhĩ	rotan halus; rotan cacing; Rotan Seuti (Calamus ornatus Blume)	small pieces of rattan; warm rattan		Rotan Seuti (Calamus ornatus Blume)	a kind of rattan				
+247	pėk	y	TRUE	n	pək	p ə k									jenis kayu hutan	forest wood species				
+248	pi' kėh		TRUE	n	piʔkəh	p i ʔ k ə h									jenis kayu hutan	forest wood species				
+249	siri-siri		TRUE	n	siri-siri	s i r i - s i r i									jenis tanaman hutan	forest plant species				
+250	yėhė		TRUE	n	jəhə	j ə h ə									jenis kayu hutan	forest wood species				
+251	yohob	y	TRUE	n	johob	j o h o b									jenis kayu hutan	forest wood species				
+252	ku ki'ion		TRUE	n	ku kiʔion	k u # k i ʔ i o n					ku	kayu	wood	hĩũ ki'ion	jenis kayu hutan	forest wood species				
